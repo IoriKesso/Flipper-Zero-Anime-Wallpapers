@@ -1,2 +1,3 @@
 # Flipper-Zero-Anime-Wallpapers
-Anime Walls for Flipper Zero
+Hello everyone! 
+Here I will post homemade anime wallpapers for FZ
