@@ -3,12 +3,6 @@
 
 Here I will post anime wallpapers for Flipper Zero
 
-## Examples
-- **ShutenDouji**
-
-![](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/blob/main/gifs/ShutenDouji.gif?raw=true)
-
-
 ## How to Install
 
 - Upload it **.ZIP** that you liked
@@ -18,3 +12,8 @@ Here I will post anime wallpapers for Flipper Zero
 - - From **manifest.txt** which you unpacked from the animation archive. Add lines to **manifest.txt** which is in your flipper
 - Insert SD card in your Flipper and Restart your Flipper 
 - **Enjoy!**
+
+## Examples
+- **ShutenDouji**
+
+![](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/blob/main/gifs/ShutenDouji.gif?raw=true)
