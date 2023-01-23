@@ -1,4 +1,6 @@
 # Flipper-Zero-Anime-Wallpapers
+![](https://user-images.githubusercontent.com/119735719/214123095-6c29ac03-f6ce-4772-b2a0-790ac7516503.png)
+
 ## Hi everyone!
 
 Here I will post anime wallpapers for Flipper Zero
@@ -16,5 +18,6 @@ Here I will post anime wallpapers for Flipper Zero
 ## Examples
 - **ShutenDouji**
 
-![](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/blob/main/Gif's/ShutenDouji.gif?raw=true)
+![](https://user-images.githubusercontent.com/119735719/214123355-2c3ccdaa-fe2f-4cc8-9057-029b2269aa36.gif)
+
 
