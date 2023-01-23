@@ -17,3 +17,4 @@ Here I will post anime wallpapers for Flipper Zero
 - **ShutenDouji**
 
 ![](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/blob/main/gifs/ShutenDouji.gif?raw=true)
+![](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/blob/main/gifs/ShutenDoujiscr.gif?raw=true)
