@@ -20,4 +20,6 @@ Here I will post anime wallpapers for Flipper Zero
 
 ![](https://user-images.githubusercontent.com/119735719/214123355-2c3ccdaa-fe2f-4cc8-9057-029b2269aa36.gif)
 
-
+## Support me
+If you like it, please support me... I will be very happy, and new wallpapers will come out more often! Thank you!
+- CloudTips (for RU): https://pay.cloudtips.ru/p/acfe2392
