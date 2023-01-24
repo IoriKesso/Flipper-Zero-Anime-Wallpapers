@@ -22,7 +22,7 @@ Here I will post anime wallpapers for Flipper Zero
 
 **Second Way**
 
-If you use "Pack" and you don't need standard animations:
+If you use **[Pack.zip]** and you don't need standard animations:
 - Delete -OR- Save on PC - In the **dolphin** folder on the device (**SD card/dolphin**) - **Manifest.txt** and Folders with standard animations
 - Unpack the **[Pack.zip]** to **SD card/dolphin**
 - Insert SD card in your Flipper and Turn on your Flipper 
