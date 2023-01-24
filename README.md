@@ -58,3 +58,4 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ## Support me
 If you like it, please support me... I will be very happy, and new wallpapers will come out more often! Thank you!
 - CloudTips (for RU): https://pay.cloudtips.ru/p/acfe2392
+- Payeer: account number P1089032783
