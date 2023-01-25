@@ -42,6 +42,8 @@ If you use **[Pack.zip]** and you don't need standard animations:
 - **SailorMoon**
 
 ![SailorMoon](https://user-images.githubusercontent.com/119735719/214305893-a995bd73-5ed4-4d19-84e3-c751e539b78c.gif)
+![sailor2](https://user-images.githubusercontent.com/119735719/214687675-de1d00b2-7702-4d6f-8e5c-62b07f828717.gif)
+![sailor3](https://user-images.githubusercontent.com/119735719/214687702-0cd69d98-d622-48dd-a077-a75a11c72fce.gif)
 
 - **Helltaker(Cerberus)**
 
@@ -64,6 +66,14 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![ikazuchi1](https://user-images.githubusercontent.com/119735719/214628229-28eb861e-4762-4a93-858a-6c5bde9ababc.gif)
 ![yuudachi2](https://user-images.githubusercontent.com/119735719/214628281-38066224-f300-4404-800d-369239c3b2cb.gif)
 
+- **Hunter x Hunter**
+
+![Gon1](https://user-images.githubusercontent.com/119735719/214687882-d4dce65c-2584-4f75-b19c-4ad3ef5795ff.gif)
+![Gon2](https://user-images.githubusercontent.com/119735719/214687888-b68ea911-2ca2-4685-b40c-be525a3606d2.gif)
+
+- **Jujutsu Kaisen**
+
+![Sukunа3](https://user-images.githubusercontent.com/119735719/214688145-f7d3efdf-5ed5-4abc-bc68-f4a9062b1a2a.gif)
 
 ## Support me
 If you like it, please support me... I will be very happy, and new wallpapers will come out more often! Thank you!
