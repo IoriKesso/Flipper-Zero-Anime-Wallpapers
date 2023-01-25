@@ -59,3 +59,6 @@ If you use **[Pack.zip]** and you don't need standard animations:
 If you like it, please support me... I will be very happy, and new wallpapers will come out more often! Thank you!
 - CloudTips (for RU): https://pay.cloudtips.ru/p/acfe2392
 - Payeer: account number P1089032783
+- Dogecoin(Doge): DMend7ymHtp8o6GgAJH6PBsC4CSzDgn2yf
+- Tron(TRX TRC-20): TFUvUTjy4k9GWqkBNg6JyeuZMGxKgQfnKb
+- Bitcoin (BTC): 3ESLvDYCiD2dBm9gZdUq2YWnxa6RDGao83
