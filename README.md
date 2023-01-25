@@ -55,6 +55,16 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 ![nsfw1](https://user-images.githubusercontent.com/119735719/214323184-cf4f08f4-dfa5-4678-8cf5-0800f138bb16.gif)
 
+- **Evangelion**
+
+![misato](https://user-images.githubusercontent.com/119735719/214627910-143ea92f-f2c8-410a-99d8-0beae225e480.gif)
+
+- **KanColle**
+ 
+![ikazuchi1](https://user-images.githubusercontent.com/119735719/214628229-28eb861e-4762-4a93-858a-6c5bde9ababc.gif)
+![yuudachi2](https://user-images.githubusercontent.com/119735719/214628281-38066224-f300-4404-800d-369239c3b2cb.gif)
+
+
 ## Support me
 If you like it, please support me... I will be very happy, and new wallpapers will come out more often! Thank you!
 - CloudTips (for RU): https://pay.cloudtips.ru/p/acfe2392
