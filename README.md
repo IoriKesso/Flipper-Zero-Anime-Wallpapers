@@ -60,6 +60,9 @@ If you use **[Pack.zip]** and you don't need standard animations:
 - **Evangelion**
 
 ![misato](https://user-images.githubusercontent.com/119735719/214627910-143ea92f-f2c8-410a-99d8-0beae225e480.gif)
+![misato3](https://user-images.githubusercontent.com/119735719/215039476-dc48e692-9c2c-41f8-a2ca-586091e48d0b.gif)
+![misato6](https://user-images.githubusercontent.com/119735719/215039608-fdbd7f58-1ea3-4720-8dac-52df2c356bfb.gif)
+![eva01](https://user-images.githubusercontent.com/119735719/215039793-2c7747eb-1307-46f4-b9a4-a4d0e7af6bcc.gif)
 
 - **KanColle**
  
@@ -74,6 +77,9 @@ If you use **[Pack.zip]** and you don't need standard animations:
 - **Jujutsu Kaisen**
 
 ![Sukunа3](https://user-images.githubusercontent.com/119735719/214688145-f7d3efdf-5ed5-4abc-bc68-f4a9062b1a2a.gif)
+![sukuna2](https://user-images.githubusercontent.com/119735719/215040008-3a541f18-5d2c-426d-8af1-77dd2acf9c5d.gif)
+![sukuna3](https://user-images.githubusercontent.com/119735719/215040099-c544c491-2c3d-4717-bc50-ff64672c7ecd.gif)
+
 
 ## Support me
 If you like it, please support me... I will be very happy, and new wallpapers will come out more often! Thank you!
