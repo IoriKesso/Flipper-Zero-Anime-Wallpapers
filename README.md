@@ -63,6 +63,8 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![misato3](https://user-images.githubusercontent.com/119735719/215039476-dc48e692-9c2c-41f8-a2ca-586091e48d0b.gif)
 ![misato6](https://user-images.githubusercontent.com/119735719/215039608-fdbd7f58-1ea3-4720-8dac-52df2c356bfb.gif)
 ![eva01](https://user-images.githubusercontent.com/119735719/215039793-2c7747eb-1307-46f4-b9a4-a4d0e7af6bcc.gif)
+![sinji3](https://user-images.githubusercontent.com/119735719/215207486-1e277d51-7f6d-4429-b20b-682277537b23.gif)
+
 
 - **KanColle**
  
