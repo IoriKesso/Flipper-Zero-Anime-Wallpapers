@@ -107,6 +107,12 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![spike1](https://user-images.githubusercontent.com/119735719/215256778-c8ad4c7b-310c-4b7f-97d6-1628e68bfb53.gif)
 ![spike3](https://user-images.githubusercontent.com/119735719/215256783-087ed179-dd0f-4271-87c3-f8e08077b86d.gif)
 
+
+## Contacts
+
+gmail: nateriver31@gmail.com
+telegram: @ThurstonWaffles1
+
 ## Support me
 If you like it, please support me... I will be very happy, and new wallpapers will come out more often! Thank you!
 - CloudTips (for RU): https://pay.cloudtips.ru/p/acfe2392
