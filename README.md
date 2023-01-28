@@ -98,7 +98,7 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 ![balalaikamin](https://user-images.githubusercontent.com/119735719/215256829-9c4d5e64-2d57-46f6-9450-7e8dbf8a4c97.gif)
 
-- **Black Lagoon**
+- **Devil's Line**
 
 ![anzai1](https://user-images.githubusercontent.com/119735719/215257231-b3ebe48f-6ca9-4add-9bb1-908480a22d6d.gif)
 
