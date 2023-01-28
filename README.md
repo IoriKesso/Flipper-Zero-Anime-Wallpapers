@@ -81,7 +81,31 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![Sukunа3](https://user-images.githubusercontent.com/119735719/214688145-f7d3efdf-5ed5-4abc-bc68-f4a9062b1a2a.gif)
 ![sukuna2](https://user-images.githubusercontent.com/119735719/215040008-3a541f18-5d2c-426d-8af1-77dd2acf9c5d.gif)
 ![sukuna3](https://user-images.githubusercontent.com/119735719/215040099-c544c491-2c3d-4717-bc50-ff64672c7ecd.gif)
+![İtadoriYuuji](https://user-images.githubusercontent.com/119735719/215256610-91f0f5da-e2f6-4487-a018-1be690649193.gif)
+![İtadoriYuuji2](https://user-images.githubusercontent.com/119735719/215256613-6d87caab-6c0e-4409-b293-9f2a154b9951.gif)
 
+- **OnePunchMan**
+
+![saitama3(min)](https://user-images.githubusercontent.com/119735719/215257141-ded2f227-913f-4b15-a58b-645da82527ce.gif)
+![saitama5(min)](https://user-images.githubusercontent.com/119735719/215257143-ac2640dd-c038-4850-98ec-3c26bad0a457.gif)
+![genos2(min)](https://user-images.githubusercontent.com/119735719/215257261-0ab498ae-8b81-4dfb-a2d4-610ea64dbe47.gif)
+
+- **Joker 5**
+
+![Jokermin](https://user-images.githubusercontent.com/119735719/215256881-4117dc06-8405-4119-9c08-e09c6e3e9294.gif)
+
+- **Black Lagoon**
+
+![balalaikamin](https://user-images.githubusercontent.com/119735719/215256829-9c4d5e64-2d57-46f6-9450-7e8dbf8a4c97.gif)
+
+- **Black Lagoon**
+
+![anzai1](https://user-images.githubusercontent.com/119735719/215257231-b3ebe48f-6ca9-4add-9bb1-908480a22d6d.gif)
+
+- **Cowboy Bebop**
+
+![spike1](https://user-images.githubusercontent.com/119735719/215256778-c8ad4c7b-310c-4b7f-97d6-1628e68bfb53.gif)
+![spike3](https://user-images.githubusercontent.com/119735719/215256783-087ed179-dd0f-4271-87c3-f8e08077b86d.gif)
 
 ## Support me
 If you like it, please support me... I will be very happy, and new wallpapers will come out more often! Thank you!
