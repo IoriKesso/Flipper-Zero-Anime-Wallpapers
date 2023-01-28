@@ -90,7 +90,7 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![saitama5(min)](https://user-images.githubusercontent.com/119735719/215257143-ac2640dd-c038-4850-98ec-3c26bad0a457.gif)
 ![genos2(min)](https://user-images.githubusercontent.com/119735719/215257261-0ab498ae-8b81-4dfb-a2d4-610ea64dbe47.gif)
 
-- **Joker 5**
+- **Persona 5**
 
 ![Jokermin](https://user-images.githubusercontent.com/119735719/215256881-4117dc06-8405-4119-9c08-e09c6e3e9294.gif)
 
