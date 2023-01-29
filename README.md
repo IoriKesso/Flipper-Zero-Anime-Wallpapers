@@ -107,12 +107,30 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![spike1](https://user-images.githubusercontent.com/119735719/215256778-c8ad4c7b-310c-4b7f-97d6-1628e68bfb53.gif)
 ![spike3](https://user-images.githubusercontent.com/119735719/215256783-087ed179-dd0f-4271-87c3-f8e08077b86d.gif)
 
+- **Demon Slayer**
+
+![nezuko1min](https://user-images.githubusercontent.com/119735719/215324746-4a0c2a18-133e-4b9e-8725-386782e68e70.gif)
+![nezuko2min](https://user-images.githubusercontent.com/119735719/215324757-677ef03b-b6d2-4e5d-b661-ce6b5dcf6356.gif)
+![nezuko3min](https://user-images.githubusercontent.com/119735719/215324768-163b5103-806e-48a5-ae7e-90efd92a6d48.gif)
+![nezuko4min](https://user-images.githubusercontent.com/119735719/215324775-d6595ab4-b34e-4176-8441-c4b076dd1ddc.gif)
+![nezuko5min](https://user-images.githubusercontent.com/119735719/215324778-803f80cc-8cbf-4fb1-9e51-99379eb4df53.gif)
+![nezuko6min](https://user-images.githubusercontent.com/119735719/215324781-97e04389-f129-4c17-858a-8eeba57d852f.gif)
+![nezuko7min](https://user-images.githubusercontent.com/119735719/215324790-bf59ebd4-cf44-4807-bb45-9b52bdeba250.gif)
+![rengoku1min](https://user-images.githubusercontent.com/119735719/215324801-6da28c22-3a6c-456c-95bb-e59aab0af271.gif)
+![tomioka1min](https://user-images.githubusercontent.com/119735719/215324804-d0623588-a5c1-4de9-832e-54c7eb460d97.gif)
+![zenitsu1min](https://user-images.githubusercontent.com/119735719/215324806-5ab477fa-de53-49ff-9bcf-05faaef37f0a.gif)
+![zenitsu2min](https://user-images.githubusercontent.com/119735719/215324811-a46fe802-71b7-4cae-b4dd-f3c853545c28.gif)
+![zenitsu3min](https://user-images.githubusercontent.com/119735719/215324815-4b541c92-d97a-4f75-809b-5b3f49228ae9.gif)
+
+- **Cyberpunk Edgerunners**
+
+![rebeca1min](https://user-images.githubusercontent.com/119735719/215324860-d02c9197-9bba-423c-9bcc-219c4c02acfa.gif)
 
 ## Contacts
 
-gmail: nateriver31@gmail.com
+Gmail: nateriver31@gmail.com
 
-telegram: @ThurstonWaffles1
+Telegram: @ThurstonWaffles1
 
 ## Support me
 If you like it, please support me... I will be very happy, and new wallpapers will come out more often! Thank you!
