@@ -29,9 +29,12 @@ If you use **[Pack.zip]** and you don't need standard animations:
 - **Enjoy!**
 
 ## Examples
-- **ShutenDouji**
+- **Fate**
 
 ![](https://user-images.githubusercontent.com/119735719/214123355-2c3ccdaa-fe2f-4cc8-9057-029b2269aa36.gif)
+![astolfo1min](https://user-images.githubusercontent.com/119735719/215577373-659459e0-201c-41b8-9b67-3aa83c9c2397.gif)
+![astolfo2min](https://user-images.githubusercontent.com/119735719/215577387-6d45aaf3-cb91-4b76-8a34-1be4d1324274.gif)
+![sabermin](https://user-images.githubusercontent.com/119735719/215577412-0620f436-b06a-4215-a29a-e64addf26b8b.gif)
 
 - **GawrGura**
 
@@ -48,6 +51,8 @@ If you use **[Pack.zip]** and you don't need standard animations:
 - **Helltaker(Cerberus)**
 
 ![Cerberus](https://user-images.githubusercontent.com/119735719/214322527-52bce987-9f6d-4ea3-8128-f24f94bb5510.gif)
+![cerberus2min](https://user-images.githubusercontent.com/119735719/215577489-69823bc4-c12e-485e-862e-b31bfc44a794.gif)
+![azazel11min](https://user-images.githubusercontent.com/119735719/215577502-b89e77e9-d469-4f69-88da-97662b14b77d.gif)
 
 - **Satania**
 
@@ -65,7 +70,6 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![eva01](https://user-images.githubusercontent.com/119735719/215039793-2c7747eb-1307-46f4-b9a4-a4d0e7af6bcc.gif)
 ![sinji3](https://user-images.githubusercontent.com/119735719/215207486-1e277d51-7f6d-4429-b20b-682277537b23.gif)
 
-
 - **KanColle**
  
 ![ikazuchi1](https://user-images.githubusercontent.com/119735719/214628229-28eb861e-4762-4a93-858a-6c5bde9ababc.gif)
@@ -75,6 +79,7 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 ![Gon1](https://user-images.githubusercontent.com/119735719/214687882-d4dce65c-2584-4f75-b19c-4ad3ef5795ff.gif)
 ![Gon2](https://user-images.githubusercontent.com/119735719/214687888-b68ea911-2ca2-4685-b40c-be525a3606d2.gif)
+![gon3min](https://user-images.githubusercontent.com/119735719/215577558-9b1947e3-ee59-401c-a1ec-23913fbfc442.gif)
 
 - **Jujutsu Kaisen**
 
@@ -83,12 +88,14 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![sukuna3](https://user-images.githubusercontent.com/119735719/215040099-c544c491-2c3d-4717-bc50-ff64672c7ecd.gif)
 ![İtadoriYuuji](https://user-images.githubusercontent.com/119735719/215256610-91f0f5da-e2f6-4487-a018-1be690649193.gif)
 ![İtadoriYuuji2](https://user-images.githubusercontent.com/119735719/215256613-6d87caab-6c0e-4409-b293-9f2a154b9951.gif)
+![Gojo11min](https://user-images.githubusercontent.com/119735719/215577661-3f36a645-09d5-457f-9c32-de9c4c0c6cd5.gif)
 
 - **OnePunchMan**
 
 ![saitama3(min)](https://user-images.githubusercontent.com/119735719/215257141-ded2f227-913f-4b15-a58b-645da82527ce.gif)
 ![saitama5(min)](https://user-images.githubusercontent.com/119735719/215257143-ac2640dd-c038-4850-98ec-3c26bad0a457.gif)
 ![genos2(min)](https://user-images.githubusercontent.com/119735719/215257261-0ab498ae-8b81-4dfb-a2d4-610ea64dbe47.gif)
+![genos3min](https://user-images.githubusercontent.com/119735719/215577726-3f4633e2-c3da-4b5f-9e2b-7913bc111b1c.gif)
 
 - **Persona 5**
 
@@ -126,11 +133,49 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 ![rebeca1min](https://user-images.githubusercontent.com/119735719/215324860-d02c9197-9bba-423c-9bcc-219c4c02acfa.gif)
 
+- **Hellsing**
+
+![alukard2min](https://user-images.githubusercontent.com/119735719/215577921-077c46b0-d59c-4b6b-ba17-a0c780a1bd0b.gif)
+
+- **Demi-chan wa Kataritai**
+
+![Hikari1min](https://user-images.githubusercontent.com/119735719/215578111-897d2e52-f182-4c77-ae33-12919886d625.gif)
+
+- **Sono Bisque Doll wa Koi wo Suru**
+
+![marin1min](https://user-images.githubusercontent.com/119735719/215578320-154707f6-d1df-4a47-8e95-4544b6421fcd.gif)
+![marin2min](https://user-images.githubusercontent.com/119735719/215578368-7a190e04-1868-4c1c-ad17-c93aa8a79ce2.gif)
+![marin3min](https://user-images.githubusercontent.com/119735719/215578460-7098a287-cb86-4f75-8393-017d6f9df905.gif)
+![marin55min](https://user-images.githubusercontent.com/119735719/215578485-534a7008-8131-4c74-a8a3-6d6dbd145914.gif)
+![marin1111](https://user-images.githubusercontent.com/119735719/215578511-4b78a4e7-439b-4c20-88ea-f5ba6ca34117.gif)
+
+- **Gate**
+
+![Rory1min](https://user-images.githubusercontent.com/119735719/215578681-93deefb9-60cd-4586-9a5f-4d2d7a24bb42.gif)
+![rory3min](https://user-images.githubusercontent.com/119735719/215578697-bdda7426-fe0d-48c7-86b6-490d350ba7fc.gif)
+![rory2min](https://user-images.githubusercontent.com/119735719/215578661-92d78c25-ba07-4bf0-b02e-3e096742e3f7.gif)
+
+- **Tensei Shitara Slime Datta Ken**
+
+![shuna1min](https://user-images.githubusercontent.com/119735719/215578954-662902f6-7615-46b3-a176-509e9b6d865d.gif)
+![shuna2min](https://user-images.githubusercontent.com/119735719/215578961-72e13c4c-5eb5-4b6f-b219-7197ef5fa3e4.gif)
+
+- **Mahoutsukai no Yome**
+
+![Tise1min](https://user-images.githubusercontent.com/119735719/215579072-1ddce959-2fd7-443c-a920-b4ee87d4b033.gif)
+
+- **Violet Evergarden**
+
+![violet1min](https://user-images.githubusercontent.com/119735719/215579186-741d0c2f-666f-4361-9664-06693b8ed711.gif)
+![violet3min](https://user-images.githubusercontent.com/119735719/215579199-d6e75970-f202-49c4-b95f-dc34b8568f47.gif)
+![violet5min](https://user-images.githubusercontent.com/119735719/215579220-2f704b74-1ba3-4a47-b391-d2ab544036a1.gif)
+![violet6min](https://user-images.githubusercontent.com/119735719/215579234-41494ca9-a913-44b9-a66d-b575149184bf.gif)
+
 ## Contacts
 
 Gmail: nateriver31@gmail.com
 
-Telegram: @ThurstonWaffles1
+Telegram: @IoriKesso
 
 Discord: IoriKesso#9635
 
