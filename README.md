@@ -132,6 +132,8 @@ Gmail: nateriver31@gmail.com
 
 Telegram: @ThurstonWaffles1
 
+Discord: IoriKesso#9635
+
 ## Support me
 If you like it, please support me... I will be very happy, and new wallpapers will come out more often! Thank you!
 - CloudTips (for RU): https://pay.cloudtips.ru/p/acfe2392
