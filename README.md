@@ -35,6 +35,8 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![astolfo1min](https://user-images.githubusercontent.com/119735719/215577373-659459e0-201c-41b8-9b67-3aa83c9c2397.gif)
 ![astolfo2min](https://user-images.githubusercontent.com/119735719/215577387-6d45aaf3-cb91-4b76-8a34-1be4d1324274.gif)
 ![sabermin](https://user-images.githubusercontent.com/119735719/215577412-0620f436-b06a-4215-a29a-e64addf26b8b.gif)
+![astolfo3min](https://user-images.githubusercontent.com/119735719/215839976-2dee073a-a758-47d4-9d60-782265dd1175.gif)
+![saber2min](https://user-images.githubusercontent.com/119735719/215840033-9f995652-82de-4048-a95d-dc96c6371741.gif)
 
 - **GawrGura**
 
@@ -54,9 +56,14 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![cerberus2min](https://user-images.githubusercontent.com/119735719/215577489-69823bc4-c12e-485e-862e-b31bfc44a794.gif)
 ![azazel11min](https://user-images.githubusercontent.com/119735719/215577502-b89e77e9-d469-4f69-88da-97662b14b77d.gif)
 
-- **Satania**
+- **Gabriel DropOut**
 
 ![Satania](https://user-images.githubusercontent.com/119735719/214322909-f4dd0a99-bc1f-4c71-af47-842bfd344692.gif)
+![gabriel1min](https://user-images.githubusercontent.com/119735719/215840900-2e195378-8692-4426-b1cb-584643e82be8.gif)
+![gabriel2min](https://user-images.githubusercontent.com/119735719/215840917-563a6b21-5faf-442b-842f-f7dad0261bdf.gif)
+![raphi1min](https://user-images.githubusercontent.com/119735719/215840969-ae5e1e6a-eb55-44cd-9ef7-8c8edd53b765.gif)
+![satania2min](https://user-images.githubusercontent.com/119735719/215844388-a41a7377-8f63-4f0d-a8fc-01ff133f024c.gif)
+![satania3min](https://user-images.githubusercontent.com/119735719/215844403-80028ef0-8f29-4d4e-b2c1-c43665156171.gif)
 
 - **Nsfw**
 
@@ -89,6 +96,7 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![İtadoriYuuji](https://user-images.githubusercontent.com/119735719/215256610-91f0f5da-e2f6-4487-a018-1be690649193.gif)
 ![İtadoriYuuji2](https://user-images.githubusercontent.com/119735719/215256613-6d87caab-6c0e-4409-b293-9f2a154b9951.gif)
 ![Gojo11min](https://user-images.githubusercontent.com/119735719/215577661-3f36a645-09d5-457f-9c32-de9c4c0c6cd5.gif)
+![nobara1min](https://user-images.githubusercontent.com/119735719/215841170-ebb35fcb-f31d-4c02-a0cb-d27dd2137e3f.gif)
 
 - **OnePunchMan**
 
@@ -170,6 +178,65 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![violet3min](https://user-images.githubusercontent.com/119735719/215579199-d6e75970-f202-49c4-b95f-dc34b8568f47.gif)
 ![violet5min](https://user-images.githubusercontent.com/119735719/215579220-2f704b74-1ba3-4a47-b391-d2ab544036a1.gif)
 ![violet6min](https://user-images.githubusercontent.com/119735719/215579234-41494ca9-a913-44b9-a66d-b575149184bf.gif)
+
+- **Tate no Yuusha no Nariagari**
+
+![filo1min](https://user-images.githubusercontent.com/119735719/215840286-339ad887-633e-49ad-9613-2555793e914a.gif)
+![filo2min](https://user-images.githubusercontent.com/119735719/215840345-b5384c40-9585-491b-966b-087a717aa28b.gif)
+![filo4min](https://user-images.githubusercontent.com/119735719/215840358-38291678-3c3c-4fab-922e-8d8302c277b8.gif)
+![raphtalia1min](https://user-images.githubusercontent.com/119735719/215840423-7207a722-cd47-4d4f-a422-fe00f5f1ee0b.gif)
+![raphtalia3min](https://user-images.githubusercontent.com/119735719/215840442-57267072-fe50-4800-afc7-e3cca9bb72ff.gif)
+![raphtalia4min](https://user-images.githubusercontent.com/119735719/215840461-fac8a953-7278-4463-973b-5a524b5f5386.gif)
+![raphtalia5min](https://user-images.githubusercontent.com/119735719/215840473-36f74b01-5a88-4201-bf5a-35ce0914fd25.gif)
+![raphtalia7min](https://user-images.githubusercontent.com/119735719/215840488-7ec22a40-e88c-4c91-b60a-1feac54097b2.gif)
+![raphtalia8min](https://user-images.githubusercontent.com/119735719/215840510-aa4b3765-9c88-44ed-8ef9-141c94883e82.gif)
+![raphtalia12min](https://user-images.githubusercontent.com/119735719/215840536-cefb3550-5134-4f8f-b318-d10ec92ede79.gif)
+![raphtalia14min](https://user-images.githubusercontent.com/119735719/215840552-282316f4-1303-4f66-a772-040bdcc4f7d8.gif)
+![raphtalia15min](https://user-images.githubusercontent.com/119735719/215840571-321857e8-983c-4db6-a85f-b4b566b53da5.gif)
+![raphtalia16min](https://user-images.githubusercontent.com/119735719/215840590-797da0bc-9e4e-4edb-bf06-833423637f37.gif)
+![raphtaliafilo1min](https://user-images.githubusercontent.com/119735719/215840606-b8da7546-d58b-4cfe-9b3d-b57d04301464.gif)
+![naofumi1min](https://user-images.githubusercontent.com/119735719/215841248-541b8288-962c-4171-bb74-352fa7c38228.gif)
+
+- **Re:Zero**
+
+![felixargyle1](https://user-images.githubusercontent.com/119735719/215848235-f77194c1-66f5-4bc2-89b5-94c7f9963d1b.gif)
+
+- **Danmachi**
+
+![hestia2min](https://user-images.githubusercontent.com/119735719/215845259-47471cca-df1c-4c01-b921-d6eb5ad6e515.gif)
+
+- **Kaguya-sama wa Kokurasetai**
+
+![keishirogane1min](https://user-images.githubusercontent.com/119735719/215845437-9ac84288-029a-47ce-8335-ede9a39eb87e.gif)
+
+- **Isekai Maou to Shoukan**
+
+![klem1min](https://user-images.githubusercontent.com/119735719/215845582-1d698d8e-53da-40a2-b62c-b06ad4ea9c55.gif)
+
+- **Akuma no Riddle**
+
+![niohashirimin](https://user-images.githubusercontent.com/119735719/215845831-49bee821-95e6-4269-92b0-d9fef87bb733.gif)
+
+- **Vinland Saga**
+
+![thorfinn1min](https://user-images.githubusercontent.com/119735719/215846064-8b5db4b0-4947-4b50-9624-40b7da2a91bc.gif)
+
+- **Macross 7**
+
+![macross7min](https://user-images.githubusercontent.com/119735719/215846278-aab3ee65-dd49-4eb0-919e-33df23d78c9a.gif)
+
+- **Itadaki! Seieki**
+
+![marisetogaya1min](https://user-images.githubusercontent.com/119735719/215846373-c5a5a643-099a-455f-ad7c-526e00614d27.gif)
+![marisetogaya2min](https://user-images.githubusercontent.com/119735719/215846388-843552e4-22b1-4c85-857d-8f35fce8b55c.gif)
+![marisetogaya3min](https://user-images.githubusercontent.com/119735719/215846421-723383d2-a0a7-469d-b442-4476ed090891.gif)
+
+- **Kakegurui**
+
+![yumeko2min](https://user-images.githubusercontent.com/119735719/215846553-1c5203b6-9ff6-49fc-9d06-78a9905db4e9.gif)
+![yumeko4min](https://user-images.githubusercontent.com/119735719/215846561-844b59aa-4e5e-4e53-bb88-afaa267c8ff9.gif)
+![yumeko6min](https://user-images.githubusercontent.com/119735719/215846570-976df10a-422f-49d5-862a-29c7bb0dd1c7.gif)
+
 
 ## Contacts
 
