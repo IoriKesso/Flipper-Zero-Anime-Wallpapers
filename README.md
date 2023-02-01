@@ -237,6 +237,69 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![yumeko4min](https://user-images.githubusercontent.com/119735719/215846561-844b59aa-4e5e-4e53-bb88-afaa267c8ff9.gif)
 ![yumeko6min](https://user-images.githubusercontent.com/119735719/215846570-976df10a-422f-49d5-862a-29c7bb0dd1c7.gif)
 
+- **Konosuba**
+
+![aqua1min](https://user-images.githubusercontent.com/119735719/216164037-313f107f-ac78-4d38-98d1-c6f6f8d6004a.gif)
+![aqua2min](https://user-images.githubusercontent.com/119735719/216164064-7e0d92b4-9c32-46c7-b700-e0951d1fa609.gif)
+![aqua4min](https://user-images.githubusercontent.com/119735719/216164144-d14b6084-6ea0-4767-9d28-c50ff4b9bacb.gif)
+![aqua5min](https://user-images.githubusercontent.com/119735719/216164161-6e390879-969e-4a31-b9cb-4c215604e32a.gif)
+![darkness2min](https://user-images.githubusercontent.com/119735719/216164178-d56d7aba-5a05-43c2-8085-374b842fe53e.gif)
+![darkness3min](https://user-images.githubusercontent.com/119735719/216164193-5921f553-f920-4f48-9268-5cfd3a9ac21c.gif)
+![darkness4min](https://user-images.githubusercontent.com/119735719/216164215-52561b79-5af9-414c-b95a-12f5c75d5fba.gif)
+![darkness6min](https://user-images.githubusercontent.com/119735719/216164227-20583753-b301-4984-902f-72406cb08b79.gif)
+![megdarkkaz1min](https://user-images.githubusercontent.com/119735719/216164252-7b89420b-1433-428f-95d0-1ef68e9a35f9.gif)
+![megumin3min](https://user-images.githubusercontent.com/119735719/216164269-f40b88c1-77b3-4cb5-870c-47853e1b4a4b.gif)
+![megumin4min](https://user-images.githubusercontent.com/119735719/216164285-21a77438-e274-483c-b0fe-9cd66edd8448.gif)
+![megumin9min](https://user-images.githubusercontent.com/119735719/216164365-3929cd25-0adf-4ffa-b8ab-aba8108fa430.gif)
+![megumin11min](https://user-images.githubusercontent.com/119735719/216164405-aa1a96ef-ab8d-4c6c-af5b-48c6b3bba693.gif)
+![megumin12min](https://user-images.githubusercontent.com/119735719/216164422-937ec5b1-c85b-47be-a0b2-4fc0015d5ddf.gif)
+![megumin13min](https://user-images.githubusercontent.com/119735719/216164430-19e254e9-3b26-44b8-a052-cd6a88d67151.gif)
+
+- **Boku wa Tomodachi ga Sukunai**
+
+![maria2min](https://user-images.githubusercontent.com/119735719/216164575-5a89060f-4338-44dc-8a8d-6ff9ae234e27.gif)
+![niku1min](https://user-images.githubusercontent.com/119735719/216164596-14722202-93ab-4ca8-a177-6eaf6880849b.gif)
+
+- **Mushoku Tensei Isekai**
+
+![eris1min](https://user-images.githubusercontent.com/119735719/216164742-93bda627-d14d-43f7-8d2a-249aed1cd9c1.gif)
+![roxymin](https://user-images.githubusercontent.com/119735719/216164809-e8ee329d-36ca-4a87-a917-a075997a3a77.gif)
+![roxy3min](https://user-images.githubusercontent.com/119735719/216164833-73a91ba7-974b-499b-a927-8c32c1405249.gif)
+![rudeus3min](https://user-images.githubusercontent.com/119735719/216164865-da1c0b10-43d3-4427-b0ae-07b6e8cc4ccb.gif)
+
+- **Rokudenashi Majutsu Koushi to Akashic Records**
+
+![rumia11min](https://user-images.githubusercontent.com/119735719/216165066-9a0a0484-90c0-4784-b223-e1cd33c17f71.gif)
+![sisti1min](https://user-images.githubusercontent.com/119735719/216165089-8b76b677-0310-40c6-8e4a-1d5d0af48268.gif)
+![sistirumia1min](https://user-images.githubusercontent.com/119735719/216165101-5c268ffe-b16c-423f-a811-92073384fb35.gif)
+
+- **Kobayashi-san Chi no Maid Dragon**
+
+![elma1min](https://user-images.githubusercontent.com/119735719/216165244-5df06be2-6ff7-49fa-a754-78ba21d1ad7e.gif)
+![elma2min](https://user-images.githubusercontent.com/119735719/216165263-5ad12f6c-411a-49ba-821d-fa06beab13a2.gif)
+![ilulu1min](https://user-images.githubusercontent.com/119735719/216165275-0ec44a12-f7b1-4864-85dd-c4e3d16ab700.gif)
+![kanna1min](https://user-images.githubusercontent.com/119735719/216165289-23ca8718-ab6f-4af5-b55c-d96ac0873c88.gif)
+![lucoa1min](https://user-images.githubusercontent.com/119735719/216165309-82985297-f7fe-4f8f-8fe8-649659d5be7f.gif)
+![toru1min](https://user-images.githubusercontent.com/119735719/216165325-8da5f639-fc26-4fdf-b490-92a817943a89.gif)
+
+- **Mikakunin de Shinkoukei**
+
+![mashiro22min](https://user-images.githubusercontent.com/119735719/216165522-b61253e6-826a-4722-82d3-b4a782790749.gif)
+![mashiro2min](https://user-images.githubusercontent.com/119735719/216165697-26006c29-f22b-41c8-b2b4-d41d906780fb.gif)
+![mashiro4min](https://user-images.githubusercontent.com/119735719/216165718-dad11616-a077-47af-b358-8ec383225308.gif)
+
+- **Plastic Nee-san**
+
+![tic2min](https://user-images.githubusercontent.com/119735719/216165851-af74f1f3-6651-4d89-80a2-676484c97263.gif)
+
+- **Baki**
+
+![baki1min](https://user-images.githubusercontent.com/119735719/216165908-5d284853-d2a3-4727-ae41-bf1aab645594.gif)
+
+- **Uzaki-chan wa Asobitai!**
+
+![uzaki1min](https://user-images.githubusercontent.com/119735719/216166039-a3ac7017-8b42-4509-a333-da1f851c3c4e.gif)
+![uzaki2min](https://user-images.githubusercontent.com/119735719/216166059-e774fd99-4ffe-466a-a3ce-73adcda8fc21.gif)
 
 ## Contacts
 
