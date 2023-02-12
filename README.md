@@ -68,6 +68,11 @@ If you use **[Pack.zip]** and you don't need standard animations:
 - **Nsfw**
 
 ![nsfw1](https://user-images.githubusercontent.com/119735719/214323184-cf4f08f4-dfa5-4678-8cf5-0800f138bb16.gif)
+![icecreammin](https://user-images.githubusercontent.com/119735719/218322783-2ecef866-e61a-473e-90ae-02027088411e.gif)
+![kobenimin](https://user-images.githubusercontent.com/119735719/218322789-027b627b-e1c3-4700-9502-f320369b575b.gif)
+![pantsu2min](https://user-images.githubusercontent.com/119735719/218322953-621647a2-fa67-46bd-aca0-1be2e2a1bdb3.gif)
+![pantsu3min](https://user-images.githubusercontent.com/119735719/218322958-0fe45e18-cf66-4deb-ab8d-a20526267bf6.gif)
+![pantsu4min](https://user-images.githubusercontent.com/119735719/218322963-793bf3b5-5977-4ffc-a619-602fd1bf8857.gif)
 
 - **Evangelion**
 
