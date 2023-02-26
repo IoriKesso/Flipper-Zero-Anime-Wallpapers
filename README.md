@@ -65,15 +65,6 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![satania2min](https://user-images.githubusercontent.com/119735719/215844388-a41a7377-8f63-4f0d-a8fc-01ff133f024c.gif)
 ![satania3min](https://user-images.githubusercontent.com/119735719/215844403-80028ef0-8f29-4d4e-b2c1-c43665156171.gif)
 
-- **Nsfw**
-
-![nsfw1](https://user-images.githubusercontent.com/119735719/214323184-cf4f08f4-dfa5-4678-8cf5-0800f138bb16.gif)
-![icecreammin](https://user-images.githubusercontent.com/119735719/218322783-2ecef866-e61a-473e-90ae-02027088411e.gif)
-![kobenimin](https://user-images.githubusercontent.com/119735719/218322789-027b627b-e1c3-4700-9502-f320369b575b.gif)
-![pantsu2min](https://user-images.githubusercontent.com/119735719/218322953-621647a2-fa67-46bd-aca0-1be2e2a1bdb3.gif)
-![pantsu3min](https://user-images.githubusercontent.com/119735719/218322958-0fe45e18-cf66-4deb-ab8d-a20526267bf6.gif)
-![pantsu4min](https://user-images.githubusercontent.com/119735719/218322963-793bf3b5-5977-4ffc-a619-602fd1bf8857.gif)
-
 - **Evangelion**
 
 ![misato](https://user-images.githubusercontent.com/119735719/214627910-143ea92f-f2c8-410a-99d8-0beae225e480.gif)
@@ -305,6 +296,20 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 ![uzaki1min](https://user-images.githubusercontent.com/119735719/216166039-a3ac7017-8b42-4509-a333-da1f851c3c4e.gif)
 ![uzaki2min](https://user-images.githubusercontent.com/119735719/216166059-e774fd99-4ffe-466a-a3ce-73adcda8fc21.gif)
+
+**<details>**
+  <summary>NSFW (Only 18+)</summary>
+  
+  **In this animation pack there are animations of a sexual nature, some of them are not added to the preview**
+  
+![nsfw1](https://user-images.githubusercontent.com/119735719/214323184-cf4f08f4-dfa5-4678-8cf5-0800f138bb16.gif)
+![icecreammin](https://user-images.githubusercontent.com/119735719/218322783-2ecef866-e61a-473e-90ae-02027088411e.gif)
+![kobenimin](https://user-images.githubusercontent.com/119735719/218322789-027b627b-e1c3-4700-9502-f320369b575b.gif)
+![pantsu2min](https://user-images.githubusercontent.com/119735719/218322953-621647a2-fa67-46bd-aca0-1be2e2a1bdb3.gif)
+![pantsu3min](https://user-images.githubusercontent.com/119735719/218322958-0fe45e18-cf66-4deb-ab8d-a20526267bf6.gif)
+![pantsu4min](https://user-images.githubusercontent.com/119735719/218322963-793bf3b5-5977-4ffc-a619-602fd1bf8857.gif)
+
+**</details>**
 
 ## Contacts
 
