@@ -300,7 +300,9 @@ If you use **[Pack.zip]** and you don't need standard animations:
 **<details>**
   <summary>NSFW (Only 18+)</summary>
   
-  **In this animation pack there are animations of a sexual nature, some of them are not added to the preview**
+  ## **In this animation pack there are animations of a sexual nature, some of them are not added to the preview**
+  
+  **By downloading this pack you confirm that you are 18**
   
 ![nsfw1](https://user-images.githubusercontent.com/119735719/214323184-cf4f08f4-dfa5-4678-8cf5-0800f138bb16.gif)
 ![icecreammin](https://user-images.githubusercontent.com/119735719/218322783-2ecef866-e61a-473e-90ae-02027088411e.gif)
