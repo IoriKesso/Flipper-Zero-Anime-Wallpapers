@@ -102,6 +102,8 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![İtadoriYuuji2](https://user-images.githubusercontent.com/119735719/215256613-6d87caab-6c0e-4409-b293-9f2a154b9951.gif)
 ![Gojo11min](https://user-images.githubusercontent.com/119735719/215577661-3f36a645-09d5-457f-9c32-de9c4c0c6cd5.gif)
 ![nobara1min](https://user-images.githubusercontent.com/119735719/215841170-ebb35fcb-f31d-4c02-a0cb-d27dd2137e3f.gif)
+![toge](https://user-images.githubusercontent.com/119735719/221396951-4b9f05a7-7bb5-4230-85fd-619fe94ac3d0.gif)
+![itadori](https://user-images.githubusercontent.com/119735719/221396959-e4a4d1f5-fd5f-42a1-87f1-ff65d4d3ce86.gif)
 
 - **OnePunchMan**
 
