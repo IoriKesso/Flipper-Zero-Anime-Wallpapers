@@ -265,9 +265,7 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 - **Rokudenashi Majutsu Koushi to Akashic Records**
 
-![rumia11min](https://user-images.githubusercontent.com/119735719/216165066-9a0a0484-90c0-4784-b223-e1cd33c17f71.gif)
 ![sisti1min](https://user-images.githubusercontent.com/119735719/216165089-8b76b677-0310-40c6-8e4a-1d5d0af48268.gif)
-![sistirumia1min](https://user-images.githubusercontent.com/119735719/216165101-5c268ffe-b16c-423f-a811-92073384fb35.gif)
 
 - **Kobayashi-san Chi no Maid Dragon**
 
@@ -310,7 +308,10 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![pantsu2min](https://user-images.githubusercontent.com/119735719/218322953-621647a2-fa67-46bd-aca0-1be2e2a1bdb3.gif)
 ![pantsu3min](https://user-images.githubusercontent.com/119735719/218322958-0fe45e18-cf66-4deb-ab8d-a20526267bf6.gif)
 ![pantsu4min](https://user-images.githubusercontent.com/119735719/218322963-793bf3b5-5977-4ffc-a619-602fd1bf8857.gif)
-
+![rumia11min](https://user-images.githubusercontent.com/119735719/216165066-9a0a0484-90c0-4784-b223-e1cd33c17f71.gif)
+![sistirumia1min](https://user-images.githubusercontent.com/119735719/216165101-5c268ffe-b16c-423f-a811-92073384fb35.gif)
+![megumin9min](https://user-images.githubusercontent.com/119735719/216164365-3929cd25-0adf-4ffa-b8ab-aba8108fa430.gif)
+ 
 **</details>**
 
 ## Contacts
