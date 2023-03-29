@@ -137,6 +137,12 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 ![rebeca1min](https://user-images.githubusercontent.com/119735719/215324860-d02c9197-9bba-423c-9bcc-219c4c02acfa.gif)
 
+- **Chainsaw Man**
+
+![chman1](https://user-images.githubusercontent.com/119735719/228477262-edae9ec4-d29d-4a7d-bd8d-8b64d32f45ea.gif)
+![Chman2](https://user-images.githubusercontent.com/119735719/228477275-9d05ca03-a5be-4036-a5c8-7f9820942ea2.gif)
+![power3](https://user-images.githubusercontent.com/119735719/228477297-fdea693d-da6b-43cb-addf-56787971f8de.gif)
+
 - **Hellsing**
 
 ![alukard2min](https://user-images.githubusercontent.com/119735719/215577921-077c46b0-d59c-4b6b-ba17-a0c780a1bd0b.gif)
