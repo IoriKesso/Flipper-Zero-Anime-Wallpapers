@@ -180,6 +180,7 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![violet3min](https://user-images.githubusercontent.com/119735719/215579199-d6e75970-f202-49c4-b95f-dc34b8568f47.gif)
 ![violet5min](https://user-images.githubusercontent.com/119735719/215579220-2f704b74-1ba3-4a47-b391-d2ab544036a1.gif)
 ![violet6min](https://user-images.githubusercontent.com/119735719/215579234-41494ca9-a913-44b9-a66d-b575149184bf.gif)
+![violet7](https://user-images.githubusercontent.com/119735719/234016987-4166c13a-e195-41b2-9107-ecce9f23f873.gif)
 
 - **Tate no Yuusha no Nariagari**
 
@@ -300,6 +301,23 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 ![uzaki1min](https://user-images.githubusercontent.com/119735719/216166039-a3ac7017-8b42-4509-a333-da1f851c3c4e.gif)
 ![uzaki2min](https://user-images.githubusercontent.com/119735719/216166059-e774fd99-4ffe-466a-a3ce-73adcda8fc21.gif)
+
+- **Black Butler**
+
+![sebastian1](https://user-images.githubusercontent.com/119735719/234017117-ceeb6e91-a19c-43e5-b503-d65b4324bea4.gif)
+
+- **Owari no Seraph**
+
+![krul1](https://user-images.githubusercontent.com/119735719/234017256-bd4a469a-00ad-4605-b75d-7ce0ad72892b.gif)
+
+- **Soul Eater**
+
+![chrona1](https://user-images.githubusercontent.com/119735719/234017404-2b2a0a61-745e-40c0-8d50-bde2905874bb.gif)
+
+- **Unknown**
+
+![boy1](https://user-images.githubusercontent.com/119735719/234017575-ec80b051-e283-4a66-bd1d-b531f57bef2d.gif)
+
 
 **<details>**
   <summary>NSFW (Only 18+)</summary>
