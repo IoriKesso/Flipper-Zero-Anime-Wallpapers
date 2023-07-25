@@ -314,6 +314,14 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 ![chrona1](https://user-images.githubusercontent.com/119735719/234017404-2b2a0a61-745e-40c0-8d50-bde2905874bb.gif)
 
+- **Bleach**
+
+![rukia1](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/assets/119735719/513224c6-d1f8-45dd-b391-1419d1a9a70e)
+
+- **Genshin Impact**
+
+![xiao](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/assets/119735719/b8f9415d-19cb-4a70-911e-6fee57aa7bbb)
+
 - **Unknown**
 
 ![boy1](https://user-images.githubusercontent.com/119735719/234017575-ec80b051-e283-4a66-bd1d-b531f57bef2d.gif)
