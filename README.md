@@ -322,6 +322,10 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 ![xiao](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/assets/119735719/b8f9415d-19cb-4a70-911e-6fee57aa7bbb)
 
+- **Tokyo Ghoul**
+
+![ghoul5](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/assets/119735719/d9f09659-442e-4e85-a95e-4cdc7125782d)
+
 - **Unknown**
 
 ![boy1](https://user-images.githubusercontent.com/119735719/234017575-ec80b051-e283-4a66-bd1d-b531f57bef2d.gif)
