@@ -326,6 +326,12 @@ If you use **[Pack.zip]** and you don't need standard animations:
 
 ![ghoul5](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/assets/119735719/d9f09659-442e-4e85-a95e-4cdc7125782d)
 
+- **War & Peace**
+
+![tolstoy3](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/assets/119735719/6cfd1430-833e-4c1e-b966-1a2a06f96068)
+![tolstoy4](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers/assets/119735719/7c343332-90ce-4c1c-8d7c-e2f6426c30e7)
+
+
 - **Unknown**
 
 ![boy1](https://user-images.githubusercontent.com/119735719/234017575-ec80b051-e283-4a66-bd1d-b531f57bef2d.gif)
