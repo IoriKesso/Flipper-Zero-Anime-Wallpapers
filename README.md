@@ -334,7 +334,7 @@ If you use **[Pack.zip]** and you don't need standard animations:
 ![darkness6min](https://user-images.githubusercontent.com/119735719/216164227-20583753-b301-4984-902f-72406cb08b79.gif) darkness6_128x64
 
 ![megdarkkaz1min](https://user-images.githubusercontent.com/119735719/216164252-7b89420b-1433-428f-95d0-1ef68e9a35f9.gif) megdarkkaz1_128x64
-meg
+
 ![megumin3min](https://user-images.githubusercontent.com/119735719/216164269-f40b88c1-77b3-4cb5-870c-47853e1b4a4b.gif) megumin3_128x64
 
 ![megumin4min](https://user-images.githubusercontent.com/119735719/216164285-21a77438-e274-483c-b0fe-9cd66edd8448.gif) megumin4_128x64
